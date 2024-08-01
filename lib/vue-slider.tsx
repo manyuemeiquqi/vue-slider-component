@@ -1,5 +1,5 @@
 import { Component, Model, Prop, Watch, Vue } from 'vue-property-decorator'
-import {
+import type {
   Value,
   DataObject,
   Mark,
